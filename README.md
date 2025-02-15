@@ -6,7 +6,7 @@ Auto connect & reconnect (24 jam)
 ## **🚀 Cara Install di VPS Linux**
 ### **1️⃣ Clone Repository & Install Dependencies**
 ```bash
-git clone https://github.com/username/sparkchain-bot.git
+git clone https://github.com/afmon0921/sparkchain-bot.git
 cd sparkchain-bot/server
 npm install
 ```
