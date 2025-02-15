@@ -1,0 +1,11 @@
+[Unit]
+Description=SparkChain Auto Bot Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/node /path/to/bot.js
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

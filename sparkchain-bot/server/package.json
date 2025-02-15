@@ -1,0 +1,13 @@
+{
+  "name": "sparkchain-bot",
+  "version": "1.0.0",
+  "description": "Bot otomatis untuk SparkChain dengan dukungan proxy dan heartbeat",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "https-proxy-agent": "^5.0.1"
+  }
+}
